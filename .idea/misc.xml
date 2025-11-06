@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/product-order service management/api-gateway-service/api-gateway-service/pom.xml" />
         <option value="$PROJECT_DIR$/product-order service management/order-service/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/product-order service management/config-server/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/product-order service management/eureka-server/pom.xml" />
       </list>
     </option>
   </component>
