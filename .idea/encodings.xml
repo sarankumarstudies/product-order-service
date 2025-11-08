@@ -5,7 +5,8 @@
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service/order-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-order service management/api-gateway-service/api-gateway-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/product-order service management/config-server/Config-Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-order service management/config-server/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-order service management/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-order service management/eureka-server/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-order service management/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-order service management/order-service/order-service/src/main/java" charset="UTF-8" />
